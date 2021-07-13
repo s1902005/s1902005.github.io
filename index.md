@@ -1,4 +1,6 @@
+---
 title: Will Huxtable music
+---
 
 ## Hello
 I provide music tuition in Edinburgh. I'm based in Newington, but I'm willing to travel to Morningside, Haymarket, New Town or Abbeyhill. I can also teach music theory/ear training online if you are further afield.
