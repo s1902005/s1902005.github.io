@@ -1,33 +1,33 @@
 
-## Hello
+# Hello
 I provide music tuition in Edinburgh. I'm based in Newington, but I'm willing to travel to Morningside, Haymarket, New Town or Abbeyhill. I can also teach music theory/ear training online if you are further afield.
 
-## Services I provide
+# Services I provide
 Whether you are an aspiring virtuoso or want a more relaxed approach to lessons, I would be delighted to teach you! I aim to make lessons fun :)
 
-### Piano teaching
+## Piano teaching
 - beginner to grade 8 standard
 - classical and popular music
 
-### Violin teaching
+## Violin teaching
 - beginner to grade 7
 - classical, jazz and pop styles
 - I can accompany you in lessons/concerts/exams
 
-### Music theory
+## Music theory
 - beginner to grade 7 standard
 - I can teach from either a classical or pop perspective, depending on your musical background
 - in-person or online option
 
-### Ear training
+## Ear training
 - extra support for those taking ABRSM aural tests (grades 1-8)
 - in-person or online
 
-### Piano accompaniment
+## Piano accompaniment
 - I am willing to accompany any instrument for concerts/exams from beginner up to grade 6
 - please enquire if you are interested in accompaniment for grades 7 or 8
 
-## Qualifications
+# Qualifications
 I'm currently preparing for my DipABRSM exam in piano, but these are my other qualifications to date.
 - Piano - Grade 8 ABRSM (distinction)
 - Violin - Grade 8 ABRSM (distinction)
@@ -36,7 +36,7 @@ I'm currently preparing for my DipABRSM exam in piano, but these are my other qu
 
 I have also recently taken modules in Music Analysis and Composing for Voices & Instruments at the University of Edinburgh, gaining over 70% in both courses.
 
-## Prices
+# Prices
 - £12.50 for 30 minutes
 - £20 for 1 hour
 
@@ -46,7 +46,7 @@ hyperlink to [2nd page](page2.md)
 
 ---
 
-## A bit more about me...
+# A bit more about me...
 I currently study maths at the University of Edinburgh, but very much regard music as an equal passion and commitment.
 Being a uni student means I can be pretty flexible with times.
 
