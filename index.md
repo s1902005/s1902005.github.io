@@ -1,4 +1,4 @@
-# Will Huxtable music
+% Will Huxtable music
 
 ## Hello
 I provide music tuition in Edinburgh. I'm based in Newington, but I'm willing to travel to Morningside, Haymarket, New Town or Abbeyhill. I can also teach music theory/ear training online if you are further afield.
@@ -41,7 +41,7 @@ I have also recently taken modules in Music Analysis and Composing for Voices & 
 - £12.50 for 30 minutes
 - £20 for 1 hour
 
-Please phone me on 07722365431 or email wjhuxtable272@gmail.com to enquire about availability.
+Please phone me on [07722365431](07722365431) or email [wjhuxtable272@gmail.com](wjhuxtable272@gmail.com) to enquire about availability.
 
 ---
 
