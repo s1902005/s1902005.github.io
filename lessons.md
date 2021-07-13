@@ -1,7 +1,7 @@
 [return home](index.md)
 
-# Services I provide
-Whether you are an aspiring virtuoso or want a more relaxed approach to lessons, I would be delighted to teach you! I aim to make lessons fun :)
+# Lesson info
+I aim to make lessons as fun as possible :)
 
 ## Piano teaching
 - beginner to grade 8 standard

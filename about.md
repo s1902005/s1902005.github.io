@@ -7,7 +7,7 @@ I'm currently preparing for my DipABRSM exam in piano, but these are my other qu
 - AQA A-level music (A*)
 - Music theory - Grade 5 ABRSM (distinction)
 
-I have also recently taken modules in Music Analysis and Composing for Voices & Instruments at the University of Edinburgh, gaining over 70% in both courses.
+I have also recently taken modules in Music Analysis and Composing for Voices & Instruments at the University of Edinburgh, gaining over 70% in both courses. 
 
 # A bit more about me...
 I currently study maths at the University of Edinburgh, but very much regard music as an equal passion and commitment.
@@ -24,4 +24,4 @@ P.S. I also tutor maths! You can find me on First Tutors :)
 
 
 ---
-Find out [information about lessons](services.md) or [return home](index.md).
+Find out [information about lessons](lessons.md) or [return home](index.md).
