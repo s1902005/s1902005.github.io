@@ -43,6 +43,8 @@ I have also recently taken modules in Music Analysis and Composing for Voices & 
 
 Please phone me on [07722365431](07722365431) or email [wjhuxtable272@gmail.com](wjhuxtable272@gmail.com) to enquire about availability.
 
+hyperlink to [2nd page](page2.md)
+
 ---
 
 ## A bit more about me...
