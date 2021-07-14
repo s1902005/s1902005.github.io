@@ -36,6 +36,7 @@ I aim to make lessons as fun as possible :)
 
 ## Prices
 >- £12.50 for 30 minutes
+>- £16 for 45 minutes
 >- £20 for 1 hour
 
 Feel free to phone me on [07722365431](tel:07722365431) or email [will@huxtablemusic.co.uk](mailto:will@huxtablemusic.co.uk) to enquire about availability. 
