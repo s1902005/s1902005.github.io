@@ -1,13 +1,11 @@
-[return home](index.md)
-
 # Lesson info
 I aim to make lessons as fun as possible :)
 
-## Piano teaching
+## Piano
 - beginner to grade 8 standard
 - classical and popular music
 
-## Violin teaching
+## Violin
 - beginner to grade 7
 - classical, jazz and pop styles
 - I can accompany you in lessons/concerts/exams
@@ -32,4 +30,7 @@ I aim to make lessons as fun as possible :)
 Feel free to phone me on [07722365431](tel:07722365431) or email [wjhuxtable272@gmail.com](mailto:wjhuxtable272@gmail.com) to enquire about availability. 
 
 ---
-Find out [more about me](about.md) or [return home](index.md).
+- **Information about lessons (including prices and contact details)**
+- [More about me](about.md)
+- [My Qualifictions](qualifications.md)
+- [return home](index.md)

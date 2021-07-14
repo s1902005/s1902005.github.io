@@ -1,14 +1,3 @@
-[return home](index.md)
-
-# My Qualifications
-I'm currently preparing for my DipABRSM exam in piano, but these are my other qualifications to date.
-- Piano - Grade 8 ABRSM (distinction)
-- Violin - Grade 8 ABRSM (distinction)
-- AQA A-level music (A*)
-- Music theory - Grade 5 ABRSM (distinction)
-
-I have also recently taken modules in Music Analysis and Composing for Voices & Instruments at the University of Edinburgh, gaining over 70% in both courses. 
-
 # A bit more about me...
 I currently study maths at the University of Edinburgh, but very much regard music as an equal passion and commitment.
 Being a uni student means I can be pretty flexible with times.
@@ -24,4 +13,7 @@ P.S. I also tutor maths! You can find me on First Tutors :)
 
 
 ---
-Find out [information about lessons](lessons.md) or [return home](index.md).
+- [Information about lessons](lessons.md) (including prices and contact details)
+- **More about me**
+- [My Qualifictions](qualifications.md)
+- [return home](index.md)
