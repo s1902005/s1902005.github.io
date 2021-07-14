@@ -1,5 +1,14 @@
+- [Lesson info](#lesson-info)
+  - [Piano](#piano)
+  - [Violin](#violin)
+  - [Music theory](#music-theory)
+  - [Ear training](#ear-training)
+  - [Piano accompaniment](#piano-accompaniment)
+- [Prices](#prices)
+
 # Lesson info
 I aim to make lessons as fun as possible :)
+
 
 ## Piano
 - beginner to grade 8 standard
