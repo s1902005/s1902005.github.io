@@ -3,6 +3,7 @@
 - [Music theory](#music-theory)
 - [Ear training](#ear-training)
 - [Piano accompaniment](#piano-accompaniment)
+- [Prices](#prices)
 
 
 I aim to make lessons as fun as possible :)
@@ -34,7 +35,7 @@ I aim to make lessons as fun as possible :)
 
 ---
 
->## Prices
+## Prices
 >- £12.50 for 30 minutes
 >- £20 for 1 hour
 
