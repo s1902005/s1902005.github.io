@@ -8,7 +8,7 @@ I'm currently preparing for my DipABRSM exam in piano, but these are my other qu
 I have also recently taken modules in Music Analysis and Composing for Voices & Instruments at the University of Edinburgh, gaining over 70% in both courses. 
 
 ---
-- [Information about lessons](lessons.md) (including prices and contact details)
-- [More about me](about.md)
-- **My Qualifictions**
-- [return home](index.md)
+>- [Information about lessons](lessons.md) (including prices and contact details)
+>- [More about me](about.md)
+>- **My Qualifictions**
+>- [return home](index.md)

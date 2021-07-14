@@ -12,6 +12,6 @@ I can also teach music theory or ear training online if you are further afield.
 
 ---
 
-- [Information about lessons](lessons.md) (including prices and contact details)
-- [More about me](about.md)
-- [My Qualifictions](qualifications.md)
+>- [Information about lessons](lessons.md) (including prices and contact details)
+>- [More about me](about.md)
+>- [My Qualifictions](qualifications.md)

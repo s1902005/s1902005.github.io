@@ -13,7 +13,7 @@ P.S. I also tutor maths! You can find me on First Tutors :)
 
 
 ---
-- [Information about lessons](lessons.md) (including prices and contact details)
-- **More about me**
-- [My Qualifictions](qualifications.md)
-- [return home](index.md)
+>- [Information about lessons](lessons.md) (including prices and contact details)
+>- **More about me**
+>- [My Qualifictions](qualifications.md)
+>- [return home](index.md)
