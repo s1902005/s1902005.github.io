@@ -7,7 +7,7 @@
 
 
 I aim to make lessons as fun as possible :)
-
+> *Please note:* for in-person lessons, I will travel to your house/flat (for no extra cost). I am unable to provide lessons from my flat.
 
 ## Piano
 - beginner to grade 8 standard
