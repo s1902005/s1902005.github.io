@@ -10,7 +10,7 @@ Whether you are an aspiring virtuoso or want a more relaxed approach to lessons,
 I'm based in Newington and will provide lessons in your own home; I'm willing to travel to Morningside, Haymarket, New Town or Abbeyhill.
 I can also teach music theory or ear training online if you are further afield.
 
-> *Note*: I hold an enhanced DBS certificate.
+> *Note:* I hold an enhanced DBS certificate.
 
 ---
 
