@@ -20,12 +20,12 @@ I aim to make lessons as fun as possible :)
 - in-person or online
 
 ## Piano accompaniment
-- I am willing to accompany any instrument for concerts/exams from beginner up to grade 6
-- please enquire if you are interested in accompaniment for grades 7 or 8
+>- I am willing to accompany any instrument for concerts/exams from beginner up to grade 6
+>- please enquire if you are interested in accompaniment for grades 7 or 8
 
 # Prices
-- £12.50 for 30 minutes
-- £20 for 1 hour
+>- £12.50 for 30 minutes
+>- £20 for 1 hour
 
 Feel free to phone me on [07722365431](tel:07722365431) or email [wjhuxtable272@gmail.com](mailto:wjhuxtable272@gmail.com) to enquire about availability. 
 
