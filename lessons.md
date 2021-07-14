@@ -1,12 +1,10 @@
-- [Lesson info](#lesson-info)
-  - [Piano](#piano)
-  - [Violin](#violin)
-  - [Music theory](#music-theory)
-  - [Ear training](#ear-training)
-  - [Piano accompaniment](#piano-accompaniment)
-- [Prices](#prices)
+- [Piano](#piano)
+- [Violin](#violin)
+- [Music theory](#music-theory)
+- [Ear training](#ear-training)
+- [Piano accompaniment](#piano-accompaniment)
 
-# Lesson info
+
 I aim to make lessons as fun as possible :)
 
 
@@ -34,9 +32,11 @@ I aim to make lessons as fun as possible :)
 - I am willing to accompany any instrument for pieces of all standards up to grade 6
 - please enquire if you are interested in accompaniment for grades 7 or 8
 
-# Prices
-- £12.50 for 30 minutes
-- £20 for 1 hour
+---
+
+>## Prices
+>- £12.50 for 30 minutes
+>- £20 for 1 hour
 
 Feel free to phone me on [07722365431](tel:07722365431) or email [wjhuxtable272@gmail.com](mailto:wjhuxtable272@gmail.com) to enquire about availability. 
 
