@@ -10,5 +10,5 @@ I have also recently taken modules in Music Analysis and Composing for Voices & 
 ---
 - [Information about lessons](lessons.md) (including prices and contact details)
 - [More about me](about.md)
-- **My Qualifications**
+- **My qualifications**
 - [return home](index.md)
