@@ -46,5 +46,5 @@ Feel free to phone me on [07722365431](tel:07722365431) or email [wjhuxtable272@
 ---
 - **Information about lessons (including prices and contact details)**
 - [More about me](about.md)
-- [My Qualifictions](qualifications.md)
+- [My Qualifications](qualifications.md)
 - [return home](index.md)
